@@ -1,4 +1,4 @@
-# Week 11 - UI Design
+# COMP2150: UI Design
 In today's prac, we will be looking at applying some of the principles of UI design from the live lecture in creating our cards and interface for our tabletop game.
 
 ## Tools used
