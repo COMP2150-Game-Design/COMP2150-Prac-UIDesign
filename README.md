@@ -133,4 +133,4 @@ Finally, head back into the game and draw one of your cards from the deck. Take 
 With any time remaining, you may want to revisit the automation/UX components of your game. As stated earlier, it's pretty powerful what you can do with automation in playingcards.io. Check out [the docs here](https://playingcards.io/docs/) and experiment.
 
 ## Next Week
-Next week you will be playtesting your assignment game during these sessions, so make sure you are organising with your group how you will be running your playtest and collecting data. If you are not yet in a group, you are desperately running out of time to join one!
+Next week you will be playtesting your assignment game during these sessions. If your team is spread across multiple pracs, you are welcome to attend them all, provided you check-in with the instructor and contribute to playtesing the games of other students. Make sure you come to class ready to go!
